@@ -8,7 +8,7 @@ function Blog() {
   return (
     <div className="blog component__space" id="Blog">
       <div className="heading">
-        <h1 className="heading">Latest News</h1>
+        <h1 className="heading">Upcoming Projects</h1>
         <p className="heading p__color">
           There are many variations of passages of Lorem Ipsum available,
         </p>
@@ -27,9 +27,9 @@ function Blog() {
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Development</h5>
-                         <h4 className="project__text">Getting tickets to the big show</h4>
-                         <a href="#" className="blog project__btn btn">Read More</a>
+                         <h5 className="project__text">Pizza Ordering system</h5>
+                         <h4 className="project__text">Comming Soon!!!</h4>
+                         <a target='_blank' href="https://pizzahutbd.com/"  className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>
@@ -43,9 +43,9 @@ function Blog() {
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Development</h5>
-                         <h4 className="project__text">Getting tickets to the big show</h4>
-                         <a href="#" className="blog project__btn btn">Read More</a>
+                         <h5 className="project__text">Complaint Management System </h5>
+                         <h4 className="project__text">Comming Soon!!!</h4>
+                         <a target='_blank' href="https://www.police.gov.bd/bn/expatriate_help_cell" className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>
@@ -59,9 +59,9 @@ function Blog() {
                          <div className="mask__effect"></div>
                      </div>
                       <div className="Blog__meta absolute">
-                         <h5 className="project__text">Development</h5>
-                         <h4 className="project__text">Getting tickets to the big show</h4>
-                         <a href="#" className="blog project__btn btn">Read More</a>
+                         <h5 className="project__text">Online Tuition Media </h5>
+                         <h4 className="project__text">Comming Soon!!!</h4>
+                         <a target='_blank' href="https://www.teacheron.com/tutor-jobs-in-bangladesh" className="blog project__btn btn">Read More</a>
                        </div>
                  </div>
               </div>

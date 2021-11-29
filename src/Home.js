@@ -91,7 +91,7 @@ function Home() {
               <br />
               <br />
               <a target='_blank' href="https://drive.google.com/file/d/1tHHFXTHNfkBP04JCCRkmC55910AhaA7d/view?usp=sharing">
-                  <button className="about btn pointer">Download Cv</button>
+                  <button className="about btn pointer">Resume</button>
                 </a>
             </div>
           </div>
