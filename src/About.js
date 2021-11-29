@@ -34,10 +34,10 @@ function About() {
                 but the majority have suffered in some form, by injected humour,
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
+                <a target='_blank' href="https://drive.google.com/file/d/1tHHFXTHNfkBP04JCCRkmC55910AhaA7d/view?usp=sharing">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
-                <a href="#">
+                <a target='_blank' href="https://www.linkedin.com/in/md-parvez-a5b524149">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>

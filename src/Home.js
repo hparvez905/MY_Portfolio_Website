@@ -85,9 +85,14 @@ function Home() {
           <div className="home__content">
             <div className="home__meta">
               <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
-              <h2 className="home__text pz__10">Hi, I’m Jone Doe</h2>
-              <h3 className="home__text sweet pz__10">JS Developer.</h3>
-              <h4 className="home__text pz__10">based in USA.</h4>
+              <h2 className="home__text pz__10">Hi, I’m Md Parvez Hossain </h2>
+              <h3 className="home__text sweet pz__10">Junior Front-end Web  Developer.</h3>
+              <h4 className="home__text pz__10">based in Bangladesh.</h4>
+              <br />
+              <br />
+              <a target='_blank' href="https://drive.google.com/file/d/1tHHFXTHNfkBP04JCCRkmC55910AhaA7d/view?usp=sharing">
+                  <button className="about btn pointer">Download Cv</button>
+                </a>
             </div>
           </div>
         </div>
