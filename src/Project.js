@@ -4,6 +4,8 @@ import Project1 from './img/portfolio-1.jpg';
 import Project2 from './img/portfolio-2.jpg';
 import Project3 from './img/portfolio-3.jpg';
 import Project4 from './img/portfolio-4.jpg';
+import Project5 from './img/portfolio-5.jpg';
+import Project6 from './img/portfolio-6.jpg';
 
 function Project() {
   return (
@@ -29,9 +31,9 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h4 className="project__text ">Vroom </h4>
+                     <h5 className="project__text">Wanna buy car?? you are in right place</h5>
+                     <a target='_blank' href="https://car-add.web.app/" className="project__btn">Visit Website </a>
                      </div>
                  </div>
              </div>
@@ -46,9 +48,9 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h4 className="project__text ">TourDe </h4>
+                     <h5 className="project__text">Getting tickets to the Dream </h5>
+                     <a target='_blank' href="https://tourapp-13a4e.web.app/" className="project__btn">Visit Website </a>
                      </div>
                  </div>
              </div>
@@ -63,9 +65,9 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h4 className="project__text">Medicare </h4>
+                     <h5 className="project__text">Getting Best Hospital in city </h5>
+                     <a target='_blank' href="https://loving-mccarthy-980700.netlify.app/home" className="project__btn">Visit Website </a>
                      </div>
                  </div>
              </div>
@@ -80,9 +82,9 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h4 className="project__text">Online Programming Course</h4>
+                     <h5 className="project__text">Getting Best Courses on online </h5>
+                     <a target='_blank' href="https://silly-haibt-f855af.netlify.app/Home" className="project__btn">Visit Website </a>
                      </div>
                  </div>
              </div>
@@ -92,14 +94,14 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project3} alt="" className="project__img" />
+                             <img src={Project5} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h4 className="project__text">Hexa Store </h4>
+                     <h5 className="project__text">Getting latest Design  items </h5>
+                     <a target='_blank' href="https://hexa-store.netlify.app/?" className="project__btn">Visit Website </a>
                      </div>
                  </div>
              </div>
@@ -109,20 +111,24 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project4} alt="" className="project__img" />
+                             <img src={Project6} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Development</h5>
-                     <h4 className="project__text">Getting tickets to the big show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h4 className="project__text">Weather Forecasts  </h4>
+                     <h5 className="project__text">wanna know Weather Forecasts </h5>
+                     <a target='_blank' href="https://hparvez905.github.io/weather-condition/" className="project__btn">Visit Website </a>
                      </div>
                  </div>
              </div>
              
              <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
+             <a target='_blank' href="https://github.com/hparvez905?tab=repositories">
              <button className="view__more pointer btn">View more</button>
+                 
+                </a>
+            
              </div>
 
            </div>
